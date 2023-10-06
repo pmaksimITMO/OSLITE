@@ -1,0 +1,4 @@
+#!/bin/bash
+email="[a-zA-z0-9_\.\-\+]+@[a-zA-Z0-9_\-\.]+.([a-zA-Z]{2,5})+"
+grep -E -ohsr $email /etc/* | awk '{printf "%s, ", $1}' > emails.lst
+truncate -s-2 emails.lst

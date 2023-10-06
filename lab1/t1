@@ -1,0 +1,10 @@
+#!/bin/bash
+a=$1
+if [[ "$2" -gt "$a" ]]
+then a=$2
+fi
+if [[ "$3" -gt "$a" ]]
+then a=$3
+fi
+echo "$a"
+
