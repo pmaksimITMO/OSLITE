@@ -1,0 +1,33 @@
+#!/bin/bash
+result=1
+mode="+"
+(tail -f pipe) |
+while true; do
+	read LINE;
+	case "$LINE" in
+		"QUIT")
+			echo "exit"
+			killall tail
+			exit
+			;;
+		"+")
+			mode='+'
+			echo "result + number"
+  			;;
+  		"*")
+   			mode="*"
+   			echo "result * number"
+  			;;
+		*)
+			if [[ "$LINE" =~ ^[+-]?[0-9] ]]; then
+    				case "$mode" in
+     					"+") result=$(echo "$result+$LINE" | bc) ;;
+     					"*") result=$(echo "$result*$LINE" | bc) ;;
+    				esac
+    				echo "$result"
+   			else
+    				echo "Error: wrong number format"
+   			fi
+			;;
+	esac
+done

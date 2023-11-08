@@ -1,0 +1,3 @@
+#!/bin/bash
+at -f ./t1 now +1 minutes
+tail -f ~/report

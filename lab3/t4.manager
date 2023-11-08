@@ -1,0 +1,6 @@
+#!/bin/bash
+./t4.cycle & pid1=$!
+./t4.cycle & pid2=$!
+./t4.cycle & pid3=$!
+
+cpulimit -p $pid1 --limit 10 &

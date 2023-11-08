@@ -1,0 +1,28 @@
+#!/bin/bash
+echo $$ > .pid
+result=1
+mode="INIT"
+
+add() {
+	mode="+"
+}
+mul() {
+	mode="*"
+}
+term() {
+	mode="STOP"
+}
+
+trap 'add' USR1
+trap 'mul' USR2
+trap 'term' SIGTERM
+
+while true; do
+ case "$mode" in
+  "+") result=$(echo "$result + 2" | bc) ;;
+  "*") result=$(echo "$result * 2" | bc) ;;
+  "STOP") echo "Done"; exit ;;
+ esac
+ echo $result
+ sleep 1
+done
