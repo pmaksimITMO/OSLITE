@@ -1,0 +1,18 @@
+#!/bin/bash
+max_mem=0
+ans_pid=0
+for pid in $(ps -eo pid | tail -n +2)
+do
+        path_statm="/proc/$pid/statm"
+	if [[ -f $path_statm ]]
+	then
+		cur_mem=$(awk '{print $1}' $path_statm)
+		if [[ "$max_mem" -lt "$mem" ]]
+		then
+			max_mem=$mem
+			ans_pid=$pid
+		fi
+	fi
+done
+echo $ans_pid
+#top -o mem

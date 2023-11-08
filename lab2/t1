@@ -1,0 +1,3 @@
+#!/bin/bash
+ps -U $USER -o pid,command | tail -n +2 | wc -l > ans1
+ps -U $USER -o pid,command | tail -n +2 | awk '{print $1":"$2}' >> ans1

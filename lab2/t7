@@ -1,0 +1,28 @@
+#!/bin/bash
+for pid in $(ps -eo pid | tail -n +2)
+do
+        path_io="/proc/$pid/io"
+	if [[ -f $path_io ]]
+	then
+	mem=$(sudo grep -w "read_bytes:" $path_io | awk '{print $2}')
+	echo "$pid $mem" >> mem_dump
+	fi
+done
+sleep 60 
+for pid in $(ps -eo pid | tail -n +2)
+do
+        path_io="/proc/$pid/io"
+	if [[ -f $path_io ]]
+	then
+        	mem=$(sudo grep -w "read_bytes:" $path_io | awk '{print $2}')
+		mem_old=0
+		if [[  $(sudo grep -w "$pid" mem_dump | wc -l) -gt 0 ]]
+		then mem_old=$(sudo grep -w "$pid" mem_dump | awk '{print $2}')
+		fi
+		diff=$(bc -l <<< "$mem - $mem_old")
+		echo "$pid $diff" >> buf
+	fi
+done
+sort -n -k2 buf | tail -3 | awk '{print $1":"$2}'
+rm buf
+rm mem_dump
