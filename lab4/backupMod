@@ -1,0 +1,35 @@
+#!/bin/bash
+src=$HOME/"source"
+backupReport=$HOME/"backup-report"
+curDate=$(date +%F)
+if [[ $(ls $HOME | grep -E "^Backup" | wc -l) -ne "0" ]] 
+then backupDate=$(ls $HOME | grep -E "^Backup" | sort -n | tail -1 | cut -d '-' -f 2,3,4)
+else backupDate=0
+fi
+secCur=$(date -d "$curDate" +%s)
+secBackup=$(date -d "$backupDate" +%s)
+let deltaDate=($secCur - $secBackup)/86400
+
+if [[ $deltaDate -gt "7" || "$backupDate" == "0" ]]; then
+	echo "Create"
+	newBackup="Backup-$curDate"
+	cp -r $src $HOME/$newBackup
+	echo "Directory $newBackup successfully created. Files:" >> $backupReport
+	echo "$(ls $src)" >> $backupReport
+else
+	echo "Merge"
+	backupDir=$HOME/Backup-$backupDate
+	echo "Updating backup in directory "$backupDir". Date: $curDate" >> $backupReport
+	for i in $(ls $src)
+	do
+		curBackupFile=$backupDir/$i
+		if [ -f $curBackupFile ]; then
+			cmp -s $curBackupFile $i
+			if [ $? -eq 1 ]; then 
+				echo "New version of file "$i" found. Old version moved to "$i.$curDate"" >> $backupReport
+			fi
+		else echo "New file "$i" copied" >> $backupReport
+		fi
+	done
+	cp -burT -S ".$curDate" $src $backupDir
+fi
