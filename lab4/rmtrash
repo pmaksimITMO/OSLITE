@@ -1,0 +1,34 @@
+#!/bin/bash
+fileName=$1
+homeTrash=$HOME/.trash
+homeLog=$HOME/trash.log
+
+if [ $# -ne 1 ]; 
+then 
+	echo "Script can take only one file"
+	exit 1	
+fi
+if [ -d $fileName ]; 
+then 
+	echo "Illegal Input: expected file, found directory"
+	exit 1	
+fi
+if [ ! -f $fileName ]; 
+then 
+       	echo "Illegal Input: file doesn't exist"
+	exit 1	
+fi
+if [ -d $homeTrash ]; then :
+else mkdir $homeTrash
+fi
+
+trashFileName=$(date +%s)
+ln $fileName "$homeTrash/$trashFileName"
+rm $fileName
+
+if [ -e $homeLog ]; then :
+else touch $homeLog
+fi
+
+echo "$PWD/$fileName:$trashFileName" >> $homeLog
+echo "File successfully moved to trash. You can find it in $HOME/.trash/"

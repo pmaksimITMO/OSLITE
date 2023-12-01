@@ -1,0 +1,43 @@
+#!/bin/bash
+fileName=$1
+homeLog=$HOME/trash.log
+homeTrash=$HOME/.trash
+
+if [ $# -ne 1 ]; then
+	echo "Script can take only one arguement: [filename] - basename to restore files from trash"
+	exit 1
+fi
+cntRestoreVariants=$(grep -h $fileName $homeLog | wc -l)
+if [ $cntRestoreVariants == 0 ]; then
+	echo "Nothing to restore for given name"
+	exit 0;
+fi
+
+for i in $(grep -h $fileName $homeLog) 
+do
+	trashFile=$(echo $i | awk -F ":" '{print $2}')
+	if [ -f $homeTrash/$trashFile ]; then	
+		if [[ "$i" =~ "$fileName:" ]]; then
+			echo "Restore $i? [Y\N]"
+			read answer
+		
+			if [[ $answer == "Y" ]]; then
+				fullFilePath=$(echo $i | awk -F ":" '{print $1}')
+				actualDirPath=$(echo $fullFilePath | rev | cut -d '/' -f 2- | rev)
+				actualFileName=$(echo $fullFilePath | rev | cut -d '/' -f 1 | rev)
+						
+				if [ ! -d $actualDirPath ]; then
+					actualDirPath=$HOME
+					echo "Directory in path doesn't exist. Restore to home directory."	
+				fi
+				if [ -f $actualDirPath/$actualFileName ]; then
+					echo "File with this name already exists. To restore enter new name."
+					read newName
+					actualFileName=$newName				
+				fi
+				ln $homeTrash/$trashFile $actualDirPath/$actualFileName
+				rm $homeTrash/$trashFile
+			fi
+		fi
+	fi
+done
