@@ -1,0 +1,590 @@
+12/04/23 18:46:20
+MiB Mem :   7786.0 total,   5822.3 free,    757.8 used,   1205.9 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6793.8 avail Mem 
+195 pmks 20 0 26956 25452 3024 R 86.7 0.3 0:00.13 mem.bash
+  195 pmks      20   0   26956  25452   3024 R  86.7   0.3   0:00.13 mem.bash
+    1 root      20   0    2456   1616   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460    116      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476    120      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:46:21
+MiB Mem :   7786.0 total,   5657.2 free,    920.6 used,   1208.1 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6630.9 avail Mem 
+195 pmks 20 0 194860 193120 3056 R 100.0 2.4 0:01.31 mem.bash
+  195 pmks      20   0  194860 193120   3056 R 100.0   2.4   0:01.31 mem.bash
+    1 root      20   0    2456   1616   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460    116      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476    120      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:46:22
+MiB Mem :   7786.0 total,   5497.5 free,   1080.3 used,   1208.1 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6471.2 avail Mem 
+195 pmks 20 0 357748 356272 3056 R 100.0 4.5 0:02.47 mem.bash
+  195 pmks      20   0  357748 356272   3056 R 100.0   4.5   0:02.47 mem.bash
+    1 root      20   0    2456   1616   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460    116      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476    120      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:46:23
+MiB Mem :   7786.0 total,   5339.1 free,   1238.8 used,   1208.1 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6312.7 avail Mem 
+195 pmks 20 0 518920 517312 3056 R 100.0 6.5 0:03.62 mem.bash
+  195 pmks      20   0  518920 517312   3056 R 100.0   6.5   0:03.62 mem.bash
+    1 root      20   0    2456   1616   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460    116      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476    120      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:46:24
+MiB Mem :   7786.0 total,   5179.1 free,   1398.8 used,   1208.1 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6152.7 avail Mem 
+195 pmks 20 0 680884 679144 3056 R 100.0 8.5 0:04.78 mem.bash
+  195 pmks      20   0  680884 679144   3056 R 100.0   8.5   0:04.78 mem.bash
+    1 root      20   0    2456   1616   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460    116      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476    120      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:46:25
+MiB Mem :   7786.0 total,   5018.6 free,   1559.2 used,   1208.1 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5992.3 avail Mem 
+195 pmks 20 0 843772 842296 3056 R 100.0 10.6 0:05.94 mem.bash
+  195 pmks      20   0  843772 842296   3056 R 100.0  10.6   0:05.94 mem.bash
+    1 root      20   0    2456   1616   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460    116      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476    120      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:46:27
+MiB Mem :   7786.0 total,   4857.7 free,   1720.2 used,   1208.1 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5831.4 avail Mem 
+195 pmks 20 0 1007188 981.9m 3056 R 100.0 12.6 0:07.10 mem.bash
+  195 pmks      20   0 1007188 981.9m   3056 R 100.0  12.6   0:07.10 mem.bash
+    1 root      20   0    2456   1616   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460    116      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476    120      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:46:28
+MiB Mem :   7786.0 total,   4689.8 free,   1888.0 used,   1208.1 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5663.5 avail Mem 
+195 pmks 20 0 1170604 1.1g 3056 R 100.0 14.7 0:08.25 mem.bash
+  195 pmks      20   0 1170604   1.1g   3056 R 100.0  14.7   0:08.25 mem.bash
+    1 root      20   0    2456   1616   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460    116      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476    120      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:46:29
+MiB Mem :   7786.0 total,   4533.1 free,   2044.7 used,   1208.1 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5506.8 avail Mem 
+195 pmks 20 0 1332040 1.3g 3056 R 100.0 16.7 0:09.41 mem.bash
+  195 pmks      20   0 1332040   1.3g   3056 R 100.0  16.7   0:09.41 mem.bash
+    1 root      20   0    2456   1616   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460    116      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476    120      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:46:30
+MiB Mem :   7786.0 total,   4375.2 free,   2202.7 used,   1208.1 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5348.8 avail Mem 
+195 pmks 20 0 1495192 1.4g 3056 R 100.0 18.7 0:10.57 mem.bash
+  195 pmks      20   0 1495192   1.4g   3056 R 100.0  18.7   0:10.57 mem.bash
+    1 root      20   0    2456   1616   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460    116      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476    120      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:46:31
+MiB Mem :   7786.0 total,   4219.9 free,   2357.9 used,   1208.1 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5193.6 avail Mem 
+195 pmks 20 0 1653856 1.6g 3056 R 100.0 20.7 0:11.73 mem.bash
+  195 pmks      20   0 1653856   1.6g   3056 R 100.0  20.7   0:11.73 mem.bash
+    1 root      20   0    2456   1616   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460    116      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476    120      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:46:32
+MiB Mem :   7786.0 total,   4065.1 free,   2512.7 used,   1208.1 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   5038.8 avail Mem 
+195 pmks 20 0 1811992 1.7g 3056 R 100.0 22.7 0:12.88 mem.bash
+  195 pmks      20   0 1811992   1.7g   3056 R 100.0  22.7   0:12.88 mem.bash
+    1 root      20   0    2456   1616   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460    116      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476    120      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:46:34
+MiB Mem :   7786.0 total,   3905.9 free,   2672.0 used,   1208.1 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   4879.6 avail Mem 
+195 pmks 20 0 1972240 1.9g 3056 R 100.0 24.7 0:14.04 mem.bash
+  195 pmks      20   0 1972240   1.9g   3056 R 100.0  24.7   0:14.04 mem.bash
+    1 root      20   0    2456   1616   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460    116      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476    120      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:46:35
+MiB Mem :   7786.0 total,   3743.5 free,   2834.4 used,   1208.1 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   4717.1 avail Mem 
+195 pmks 20 0 2135260 2.0g 3056 R 100.0 26.8 0:15.20 mem.bash
+  195 pmks      20   0 2135260   2.0g   3056 R 100.0  26.8   0:15.20 mem.bash
+    1 root      20   0    2456   1616   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460    116      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476    120      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:46:36
+MiB Mem :   7786.0 total,   3583.0 free,   2994.8 used,   1208.2 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   4556.7 avail Mem 
+195 pmks 20 0 2298280 2.2g 3056 R 100.0 28.8 0:16.36 mem.bash
+  195 pmks      20   0 2298280   2.2g   3056 R 100.0  28.8   0:16.36 mem.bash
+    1 root      20   0    2456   1616   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460    116      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476    120      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:46:37
+MiB Mem :   7786.0 total,   3426.0 free,   3151.8 used,   1208.2 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   4399.7 avail Mem 
+195 pmks 20 0 2458000 2.3g 3056 R 100.0 30.8 0:17.52 mem.bash
+  195 pmks      20   0 2458000   2.3g   3056 R 100.0  30.8   0:17.52 mem.bash
+    1 root      20   0    2456   1616   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460    116      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476    120      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:46:38
+MiB Mem :   7786.0 total,   3263.0 free,   3314.8 used,   1208.2 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   4236.7 avail Mem 
+195 pmks 20 0 2620228 2.5g 3056 R 100.0 32.8 0:18.67 mem.bash
+  195 pmks      20   0 2620228   2.5g   3056 R 100.0  32.8   0:18.67 mem.bash
+    1 root      20   0    2456   1616   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460    116      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476    120      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:46:39
+MiB Mem :   7786.0 total,   3109.5 free,   3468.3 used,   1208.2 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   4083.2 avail Mem 
+195 pmks 20 0 2776516 2.6g 3056 R 100.0 34.8 0:19.83 mem.bash
+  195 pmks      20   0 2776516   2.6g   3056 R 100.0  34.8   0:19.83 mem.bash
+    1 root      20   0    2456   1616   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460    116      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476    120      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:46:40
+MiB Mem :   7786.0 total,   2953.3 free,   3624.6 used,   1208.2 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3926.9 avail Mem 
+195 pmks 20 0 2936896 2.8g 3056 R 100.0 36.8 0:20.99 mem.bash
+  195 pmks      20   0 2936896   2.8g   3056 R 100.0  36.8   0:20.99 mem.bash
+    1 root      20   0    2456   1616   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460    116      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476    120      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:46:42
+MiB Mem :   7786.0 total,   2793.6 free,   3784.3 used,   1208.2 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3767.2 avail Mem 
+195 pmks 20 0 3098728 3.0g 3056 R 100.0 38.8 0:22.15 mem.bash
+  195 pmks      20   0 3098728   3.0g   3056 R 100.0  38.8   0:22.15 mem.bash
+    1 root      20   0    2456   1616   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460    116      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476    120      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:46:43
+MiB Mem :   7786.0 total,   2636.1 free,   3941.8 used,   1208.2 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3609.7 avail Mem 
+195 pmks 20 0 3258580 3.1g 3056 R 100.0 40.9 0:23.31 mem.bash
+  195 pmks      20   0 3258580   3.1g   3056 R 100.0  40.9   0:23.31 mem.bash
+    1 root      20   0    2456   1616   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460    116      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476    120      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:46:44
+MiB Mem :   7786.0 total,   2475.8 free,   4102.0 used,   1208.2 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3449.5 avail Mem 
+195 pmks 20 0 3421468 3.3g 3056 R 100.0 42.9 0:24.46 mem.bash
+  195 pmks      20   0 3421468   3.3g   3056 R 100.0  42.9   0:24.46 mem.bash
+    1 root      20   0    2456   1616   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460    116      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476    120      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:46:45
+MiB Mem :   7786.0 total,   2314.2 free,   4263.7 used,   1208.2 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3287.9 avail Mem 
+195 pmks 20 0 3585676 3.4g 3056 R 100.0 45.0 0:25.62 mem.bash
+  195 pmks      20   0 3585676   3.4g   3056 R 100.0  45.0   0:25.62 mem.bash
+    1 root      20   0    2456   1616   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460    116      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476    120      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:46:46
+MiB Mem :   7786.0 total,   2153.7 free,   4424.1 used,   1208.2 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   3127.4 avail Mem 
+195 pmks 20 0 3748432 3.6g 3056 R 100.0 47.0 0:26.78 mem.bash
+  195 pmks      20   0 3748432   3.6g   3056 R 100.0  47.0   0:26.78 mem.bash
+    1 root      20   0    2456   1616   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460    116      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476    120      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:46:47
+MiB Mem :   7786.0 total,   1997.7 free,   4580.1 used,   1208.2 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   2971.4 avail Mem 
+195 pmks 20 0 3907888 3.7g 3056 R 100.0 49.0 0:27.94 mem.bash
+  195 pmks      20   0 3907888   3.7g   3056 R 100.0  49.0   0:27.94 mem.bash
+    1 root      20   0    2456   1616   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460    116      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476    120      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:46:49
+MiB Mem :   7786.0 total,   1838.2 free,   4739.6 used,   1208.2 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   2811.9 avail Mem 
+195 pmks 20 0 4068664 3.9g 3056 R 100.0 51.0 0:29.09 mem.bash
+  195 pmks      20   0 4068664   3.9g   3056 R 100.0  51.0   0:29.09 mem.bash
+    1 root      20   0    2456   1616   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460    116      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476    120      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:46:50
+MiB Mem :   7786.0 total,   1678.0 free,   4899.8 used,   1208.2 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   2651.7 avail Mem 
+195 pmks 20 0 4231684 4.0g 3056 R 100.0 53.1 0:30.25 mem.bash
+  195 pmks      20   0 4231684   4.0g   3056 R 100.0  53.1   0:30.25 mem.bash
+    1 root      20   0    2456   1616   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460    116      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476    120      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:46:51
+MiB Mem :   7786.0 total,   1518.0 free,   5059.8 used,   1208.2 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   2491.7 avail Mem 
+195 pmks 20 0 4393912 4.2g 3056 R 100.0 55.1 0:31.41 mem.bash
+  195 pmks      20   0 4393912   4.2g   3056 R 100.0  55.1   0:31.41 mem.bash
+    1 root      20   0    2456   1616   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460    116      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476    120      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:46:52
+MiB Mem :   7786.0 total,   1358.1 free,   5219.7 used,   1208.2 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   2331.8 avail Mem 
+195 pmks 20 0 4555876 4.3g 3056 R 100.0 57.1 0:32.57 mem.bash
+  195 pmks      20   0 4555876   4.3g   3056 R 100.0  57.1   0:32.57 mem.bash
+    1 root      20   0    2456   1616   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460    116      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476    120      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:46:53
+MiB Mem :   7786.0 total,   1201.1 free,   5376.7 used,   1208.2 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   2174.8 avail Mem 
+195 pmks 20 0 4716784 4.5g 3056 R 100.0 59.1 0:33.73 mem.bash
+  195 pmks      20   0 4716784   4.5g   3056 R 100.0  59.1   0:33.73 mem.bash
+    1 root      20   0    2456   1616   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460    116      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476    120      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:46:54
+MiB Mem :   7786.0 total,   1045.8 free,   5532.0 used,   1208.2 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   2019.5 avail Mem 
+195 pmks 20 0 4875580 4.6g 3056 R 100.0 61.1 0:34.89 mem.bash
+  195 pmks      20   0 4875580   4.6g   3056 R 100.0  61.1   0:34.89 mem.bash
+    1 root      20   0    2456   1616   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460    116      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476    120      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:46:56
+MiB Mem :   7786.0 total,    887.6 free,   5690.2 used,   1208.2 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   1861.3 avail Mem 
+195 pmks 20 0 5036488 4.8g 3056 R 100.0 63.2 0:36.04 mem.bash
+  195 pmks      20   0 5036488   4.8g   3056 R 100.0  63.2   0:36.04 mem.bash
+    1 root      20   0    2456   1616   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460    116      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476    120      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:46:57
+MiB Mem :   7786.0 total,    727.6 free,   5850.2 used,   1208.2 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   1701.3 avail Mem 
+195 pmks 20 0 5198848 5.0g 3056 R 100.0 65.2 0:37.20 mem.bash
+  195 pmks      20   0 5198848   5.0g   3056 R 100.0  65.2   0:37.20 mem.bash
+    1 root      20   0    2456   1616   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460    116      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476    120      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:46:58
+MiB Mem :   7786.0 total,    573.3 free,   6004.5 used,   1208.2 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   1547.0 avail Mem 
+195 pmks 20 0 5356324 5.1g 3056 R 100.0 67.2 0:38.36 mem.bash
+  195 pmks      20   0 5356324   5.1g   3056 R 100.0  67.2   0:38.36 mem.bash
+    1 root      20   0    2456   1616   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460    116      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476    120      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:46:59
+MiB Mem :   7786.0 total,    424.9 free,   6152.9 used,   1208.2 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   1398.6 avail Mem 
+195 pmks 20 0 5505352 5.2g 3056 R 40.0 69.0 0:39.43 mem.bash
+  195 pmks      20   0 5505352   5.2g   3056 R  40.0  69.0   0:39.43 mem.bash
+    1 root      20   0    2456   1616   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460    116      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476    120      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:47:00
+MiB Mem :   7786.0 total,    332.6 free,   6245.2 used,   1208.2 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   1306.3 avail Mem 
+195 pmks 20 0 5599336 5.3g 3056 R 100.0 70.2 0:40.68 mem.bash
+  195 pmks      20   0 5599336   5.3g   3056 R 100.0  70.2   0:40.68 mem.bash
+    1 root      20   0    2456   1616   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460    116      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476    120      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:47:01
+MiB Mem :   7786.0 total,    178.6 free,   6399.2 used,   1208.2 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   1152.3 avail Mem 
+195 pmks 20 0 5758264 5.5g 3056 R 100.0 72.2 0:41.84 mem.bash
+  195 pmks      20   0 5758264   5.5g   3056 R 100.0  72.2   0:41.84 mem.bash
+    1 root      20   0    2456   1616   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460    116      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476    120      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:47:02
+MiB Mem :   7786.0 total,    111.7 free,   6551.7 used,   1122.6 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.    999.8 avail Mem 
+195 pmks 20 0 5919040 5.6g 3056 R 100.0 74.2 0:43.00 mem.bash
+  195 pmks      20   0 5919040   5.6g   3056 R 100.0  74.2   0:43.00 mem.bash
+    1 root      20   0    2456   1616   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460    116      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476    120      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:47:04
+MiB Mem :   7786.0 total,    114.1 free,   6698.8 used,    973.1 buff/cache
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.    852.8 avail Mem 
+195 pmks 20 0 6082324 5.8g 3056 R 100.0 76.3 0:44.16 mem.bash
+  195 pmks      20   0 6082324   5.8g   3056 R 100.0  76.3   0:44.16 mem.bash
+    1 root      20   0    2456   1616   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460    116      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476    120      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:47:05
+MiB Mem :   7786.0 total,    113.9 free,   6859.7 used,    812.4 buff/cache
+MiB Swap:   2048.0 total,   2047.2 free,      0.8 used.    692.1 avail Mem 
+195 pmks 20 0 6250228 6.0g 3056 R 100.0 78.4 0:45.32 mem.bash
+  195 pmks      20   0 6250228   6.0g   3056 R 100.0  78.4   0:45.32 mem.bash
+    1 root      20   0    2456   1616   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460    104      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476    116      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:47:06
+MiB Mem :   7786.0 total,    112.2 free,   7018.3 used,    655.4 buff/cache
+MiB Swap:   2048.0 total,   2045.7 free,      2.3 used.    533.8 avail Mem 
+195 pmks 20 0 6415624 6.1g 3056 R 100.0 80.4 0:46.48 mem.bash
+  195 pmks      20   0 6415624   6.1g   3056 R 100.0  80.4   0:46.48 mem.bash
+    1 root      20   0    2456   1616   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460    104      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476    116      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:47:07
+MiB Mem :   7786.0 total,    118.2 free,   7174.1 used,    493.7 buff/cache
+MiB Swap:   2048.0 total,   2045.0 free,      3.0 used.    378.0 avail Mem 
+195 pmks 20 0 6576004 6.3g 3056 R 100.0 82.5 0:47.62 mem.bash
+  195 pmks      20   0 6576004   6.3g   3056 R 100.0  82.5   0:47.62 mem.bash
+    1 root      20   0    2456   1616   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460    104      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476    116      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:47:08
+MiB Mem :   7786.0 total,    121.7 free,   7332.6 used,    331.7 buff/cache
+MiB Swap:   2048.0 total,   2035.9 free,     12.1 used.    220.1 avail Mem 
+195 pmks 20 0 6741400 6.4g 3052 R 100.0 84.5 0:48.79 mem.bash
+  195 pmks      20   0 6741400   6.4g   3052 R 100.0  84.5   0:48.79 mem.bash
+    1 root      20   0    2456   1616   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460    104      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476    116      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:47:09
+MiB Mem :   7786.0 total,    117.4 free,   7486.3 used,    182.2 buff/cache
+MiB Swap:   2048.0 total,   2022.3 free,     25.7 used.     78.0 avail Mem 
+195 pmks 20 0 6902968 6.6g 3040 R 100.0 86.6 0:49.95 mem.bash
+  195 pmks      20   0 6902968   6.6g   3040 R 100.0  86.6   0:49.95 mem.bash
+    1 root      20   0    2456   1616   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460    104      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476    116      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:47:11
+MiB Mem :   7786.0 total,    113.3 free,   7601.3 used,     71.4 buff/cache
+MiB Swap:   2048.0 total,   1938.8 free,    109.2 used.     18.4 avail Mem 
+195 pmks 20 0 7072456 6.7g 1920 R 100.0 88.7 0:51.14 mem.bash
+  195 pmks      20   0 7072456   6.7g   1920 R 100.0  88.7   0:51.14 mem.bash
+    1 root      20   0    2456   1548   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460     44      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476     56      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:47:12
+MiB Mem :   7786.0 total,    119.7 free,   7589.8 used,     76.4 buff/cache
+MiB Swap:   2048.0 total,   1822.0 free,    226.0 used.     27.3 avail Mem 
+195 pmks 20 0 7236664 6.9g 1920 R 100.0 90.7 0:52.32 mem.bash
+  195 pmks      20   0 7236664   6.9g   1920 R 100.0  90.7   0:52.32 mem.bash
+    1 root      20   0    2456   1508   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460      8      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476      0      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:47:13
+MiB Mem :   7786.0 total,    120.4 free,   7585.4 used,     80.2 buff/cache
+MiB Swap:   2048.0 total,   1671.9 free,    376.1 used.     29.9 avail Mem 
+195 pmks 20 0 7394800 6.9g 1920 R 100.0 91.3 0:53.48 mem.bash
+  195 pmks      20   0 7394800   6.9g   1920 R 100.0  91.3   0:53.48 mem.bash
+    1 root      20   0    2456   1508   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460      8      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476      0      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:47:14
+MiB Mem :   7786.0 total,    116.2 free,   7591.7 used,     78.1 buff/cache
+MiB Swap:   2048.0 total,   1523.1 free,    524.9 used.     24.7 avail Mem 
+195 pmks 20 0 7552012 7.0g 1920 R 100.0 91.4 0:54.64 mem.bash
+  195 pmks      20   0 7552012   7.0g   1920 R 100.0  91.4   0:54.64 mem.bash
+    1 root      20   0    2456   1508   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460      8      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476      0      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:47:15
+MiB Mem :   7786.0 total,    117.6 free,   7591.7 used,     76.7 buff/cache
+MiB Swap:   2048.0 total,   1364.7 free,    683.3 used.     25.3 avail Mem 
+195 pmks 20 0 7710940 7.0g 1920 R 100.0 91.4 0:55.80 mem.bash
+  195 pmks      20   0 7710940   7.0g   1920 R 100.0  91.4   0:55.80 mem.bash
+    1 root      20   0    2456   1508   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460      8      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476      0      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:47:16
+MiB Mem :   7786.0 total,    116.5 free,   7594.7 used,     74.8 buff/cache
+MiB Swap:   2048.0 total,   1214.9 free,    833.1 used.     23.3 avail Mem 
+195 pmks 20 0 7870000 7.0g 1920 R 100.0 91.5 0:56.96 mem.bash
+  195 pmks      20   0 7870000   7.0g   1920 R 100.0  91.5   0:56.96 mem.bash
+    1 root      20   0    2456   1508   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460      8      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476      0      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:47:18
+MiB Mem :   7786.0 total,    114.5 free,   7598.3 used,     73.2 buff/cache
+MiB Swap:   2048.0 total,   1073.9 free,    974.1 used.     20.5 avail Mem 
+195 pmks 20 0 8026024 7.0g 1920 R 100.0 91.7 0:58.11 mem.bash
+  195 pmks      20   0 8026024   7.0g   1920 R 100.0  91.7   0:58.11 mem.bash
+    1 root      20   0    2456   1508   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460      8      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476      0      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:47:19
+MiB Mem :   7786.0 total,    115.4 free,   7598.9 used,     71.7 buff/cache
+MiB Swap:   2048.0 total,    917.7 free,   1130.3 used.     20.6 avail Mem 
+195 pmks 20 0 8184556 7.0g 1920 R 100.0 91.7 0:59.27 mem.bash
+  195 pmks      20   0 8184556   7.0g   1920 R 100.0  91.7   0:59.27 mem.bash
+    1 root      20   0    2456   1508   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460      8      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476      0      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:47:20
+MiB Mem :   7786.0 total,    115.4 free,   7600.2 used,     70.3 buff/cache
+MiB Swap:   2048.0 total,    768.2 free,   1279.8 used.     19.9 avail Mem 
+195 pmks 20 0 8341636 7.0g 1920 R 100.0 91.7 1:00.43 mem.bash
+  195 pmks      20   0 8341636   7.0g   1920 R 100.0  91.7   1:00.43 mem.bash
+    1 root      20   0    2456   1508   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460      8      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476      0      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:47:21
+MiB Mem :   7786.0 total,    115.6 free,   7589.7 used,     80.6 buff/cache
+MiB Swap:   2048.0 total,    603.0 free,   1445.0 used.     25.3 avail Mem 
+195 pmks 20 0 8495944 7.0g 1920 R 100.0 91.6 1:01.59 mem.bash
+  195 pmks      20   0 8495944   7.0g   1920 R 100.0  91.6   1:01.59 mem.bash
+    1 root      20   0    2456   1508   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460      8      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476      0      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:47:22
+MiB Mem :   7786.0 total,    112.6 free,   7593.7 used,     79.6 buff/cache
+MiB Swap:   2048.0 total,    457.7 free,   1590.3 used.     21.8 avail Mem 
+195 pmks 20 0 8654080 7.0g 1920 R 100.0 91.8 1:02.75 mem.bash
+  195 pmks      20   0 8654080   7.0g   1920 R 100.0  91.8   1:02.75 mem.bash
+    1 root      20   0    2456   1508   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460      8      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476      0      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:47:23
+MiB Mem :   7786.0 total,    118.9 free,   7588.2 used,     78.9 buff/cache
+MiB Swap:   2048.0 total,    295.6 free,   1752.4 used.     27.7 avail Mem 
+195 pmks 20 0 8808916 7.0g 1920 R 100.0 91.6 1:03.91 mem.bash
+  195 pmks      20   0 8808916   7.0g   1920 R 100.0  91.6   1:03.91 mem.bash
+    1 root      20   0    2456   1508   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460      8      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476      0      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:47:25
+MiB Mem :   7786.0 total,    118.2 free,   7589.4 used,     78.4 buff/cache
+MiB Swap:   2048.0 total,    144.2 free,   1903.8 used.     26.8 avail Mem 
+195 pmks 20 0 8967052 7.0g 1920 R 100.0 91.7 1:05.07 mem.bash
+  195 pmks      20   0 8967052   7.0g   1920 R 100.0  91.7   1:05.07 mem.bash
+    1 root      20   0    2456   1508   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460      8      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476      0      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:47:26
+MiB Mem :   7786.0 total,    123.7 free,   7596.4 used,     65.9 buff/cache
+MiB Swap:   2048.0 total,      0.0 free,   2048.0 used.     26.1 avail Mem 
+195 pmks 20 0 9126772 7.0g 1920 R 100.0 91.8 1:06.23 mem.bash
+  195 pmks      20   0 9126772   7.0g   1920 R 100.0  91.8   1:06.23 mem.bash
+    1 root      20   0    2456   1508   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460      8      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476      0      0 S   0.0   0.0   0:00.00 Relay(126)
+
+12/04/23 18:47:30
+MiB Mem :   7786.0 total,    116.7 free,   7622.9 used,     46.4 buff/cache
+MiB Swap:   2048.0 total,      0.0 free,   2048.0 used.      9.2 avail Mem 
+195 pmks 20 0 9178516 7.0g 1152 R 15.0 92.5 1:06.69 mem.bash
+  195 pmks      20   0 9178516   7.0g   1152 R  15.0  92.5   1:06.69 mem.bash
+    1 root      20   0    2456   1508   1500 S   0.0   0.0   0:00.00 init(Ubuntu)
+    4 root      20   0    2472    196    196 S   0.0   0.0   0:00.00 init
+  124 root      20   0    2460      8      0 S   0.0   0.0   0:00.00 SessionLeader
+  125 root      20   0    2476      0      0 S   0.0   0.0   0:00.00 Relay(126)
+
