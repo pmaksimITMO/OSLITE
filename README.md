@@ -7,3 +7,7 @@ This repo contains homeworks from ITMO CT Operations Systems course
 ## Lab 3. [Processes pt. 2, Signals](https://github.com/pmaksimITMO/OSLITE/tree/main/lab3)
 
 ## Lab 4. [Files and directories](https://github.com/pmaksimITMO/OSLITE/tree/main/lab4)
+
+## Lab 5. [Experiments with memory](https://github.com/pmaksimITMO/OSLITE/tree/main/lab5)
+
+## Lab 6. [Experiments with system](https://github.com/pmaksimITMO/OSLITE/tree/main/lab6)
